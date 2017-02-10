@@ -1,0 +1,6 @@
+#cmd
+cd  /scripts #folder with pip.exe
+pip install openpyxl
+
+http://www.w3ii.com/pt/python3/python_gui_programming.html
+https://automatetheboringstuff.com/
