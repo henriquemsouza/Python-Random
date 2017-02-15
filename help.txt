@@ -4,3 +4,6 @@ pip install openpyxl
 
 http://www.w3ii.com/pt/python3/python_gui_programming.html
 https://automatetheboringstuff.com/
+
+
+http://stackoverflow.com/questions/36893883/trying-to-copy-a-file-in-python-script-but-it-doesnt-work
