@@ -3,3 +3,6 @@ https://pythonprogramming.net/urllib-tutorial-python-3/
 http://fernandofreitasalves.com/como-criar-um-executavel-com-instalador-msi-em-python-e-com-cx_freeze/
 
 http://wiki.python.org.br/InstaladorWindows
+
+
+https://thenewboston.com/videos.php?cat=99
