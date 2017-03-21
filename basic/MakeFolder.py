@@ -1,8 +1,10 @@
-import os
-import getpass
+import os, getpass
 
 path=os.path.join(*["C:/Users/"+getpass.getuser()+"/Documents/save"])
 print(path)
 
-os.makedirs(path, exist_ok=True)
-
+if os.path.exists(path):
+    print("true")
+else:
+    os.makedirs(path, exist_ok=True)
+    print("created")
