@@ -7,3 +7,5 @@ https://automatetheboringstuff.com/
 
 
 http://stackoverflow.com/questions/36893883/trying-to-copy-a-file-in-python-script-but-it-doesnt-work
+
+git clone https://github.com/Dionach/CMSmap.git
